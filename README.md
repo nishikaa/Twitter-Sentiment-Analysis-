@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis-
-Twitter Sentiment Analysis for Airline Services as Project for AIML PGP
+To identify the sentiment from a tweet to understand an airlines' customer satisfaction
